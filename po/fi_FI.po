@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 tuntia"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 tuntia"
+
+msgid "startup_bd_timedi_am"
+msgstr "ap"
+
+msgid "startup_bd_timedi_pm"
+msgstr "ip"
+
+msgid "startup_datedi_month"
+msgstr "Kuukausi"
+
+msgid "startup_datedi_text"
+msgstr "Valitse oikea päivämäärä valitsemalla päivä, kuukausi ja vuosi."
+
+msgid "startup_datedi_title"
+msgstr "Päivämäärä"
+
+msgid "startup_datedi_year"
+msgstr "Vuosi"
+
+msgid "startup_fi_regdi_location"
+msgstr "Sijainti"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Nykyiset asetukset"
+
+msgid "startup_ia_clicking_outside"
+msgstr ""
+"Voit poistua tallentamatta muutoksia napauttamalla valintaikkunan "
+"ulkopuolella"
+
+msgid "startup_ia_pressbutton"
+msgstr "Valitse asetus, jota haluat muuttaa"
+
+msgid "startup_ia_regdi_text"
+msgstr ""
+"Valitse ensisijainen sijainti selaamalla luetteloa sormella ylös tai alas."
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Odota, että Nokia N900 -laite käynnistyy…"
+
+msgid "startup_lang_slidefinger"
+msgstr "Selaa luetteloa liu'uttamalla sormea ylös tai alas."
+
+msgid "startup_lang_text"
+msgstr "Valitse ensisijainen kieli sormella."
+
+msgid "startup_lang_title"
+msgstr "Kieli"
+
+msgid "startup_regdi_timezone"
+msgstr "Aikavyöhyke"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Päivämäärä"
+
+msgid "startup_sel_infotext"
+msgstr "Nokia N900 -laitteessa on seuraavat asetukset"
+
+msgid "startup_sel_lang_btn"
+msgstr "Kieli"
+
+msgid "startup_sel_reg_btn"
+msgstr "Alue"
+
+msgid "startup_sel_time_btn"
+msgstr "Aika"
+
+msgid "startup_startup_screen_title"
+msgstr "Tervetuloa"
+
+msgid "startup_ti_regdi_title"
+msgstr "Alue"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Siirrä kellonviisarit sormin oikeaan aikaan"
+
+msgid "startup_timedi_title"
+msgstr "Aika"
+
+msgid "startup_timezonedi_title"
+msgstr "Valitse aikavyöhyke (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Päivä"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"

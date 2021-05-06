@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 hs"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 hs"
+
+msgid "startup_bd_timedi_am"
+msgstr "AM"
+
+msgid "startup_bd_timedi_pm"
+msgstr "PM"
+
+msgid "startup_datedi_month"
+msgstr "Mês"
+
+msgid "startup_datedi_text"
+msgstr "Seleccione a data correcta, seleccionando dia, mês e ano"
+
+msgid "startup_datedi_title"
+msgstr "Data"
+
+msgid "startup_datedi_year"
+msgstr "Ano"
+
+msgid "startup_fi_regdi_location"
+msgstr "Localização"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Definições actuais"
+
+msgid "startup_ia_clicking_outside"
+msgstr ""
+"Tocar fora da caixa de diálogo permitir-lhe sair sem gravar quaisquer "
+"definições"
+
+msgid "startup_ia_pressbutton"
+msgstr "Toque numa opção para alterar uma definição"
+
+msgid "startup_ia_regdi_text"
+msgstr ""
+"Seleccione a localização preferencial deslizando o dedo para cima/baixo para "
+"percorrer a lista"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Aguarde enquanto o Nokia N900 carrega…"
+
+msgid "startup_lang_slidefinger"
+msgstr "Deslize o dedo para cima/baixo para percorrer a lista."
+
+msgid "startup_lang_text"
+msgstr "Seleccione o idioma preferencial utilizando o dedo."
+
+msgid "startup_lang_title"
+msgstr "Idioma"
+
+msgid "startup_regdi_timezone"
+msgstr "Fuso horário"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Data"
+
+msgid "startup_sel_infotext"
+msgstr "O seu Nokia N900 possui as seguintes definições"
+
+msgid "startup_sel_lang_btn"
+msgstr "Idioma"
+
+msgid "startup_sel_reg_btn"
+msgstr "Região"
+
+msgid "startup_sel_time_btn"
+msgstr "Hora"
+
+msgid "startup_startup_screen_title"
+msgstr "Bem-vindo"
+
+msgid "startup_ti_regdi_title"
+msgstr "Região"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Utilize os dedos para mover os ponteiros do relógio e corrigir a hora"
+
+msgid "startup_timedi_title"
+msgstr "Hora"
+
+msgid "startup_timezonedi_title"
+msgstr "Seleccionar fuso horário (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Dia"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"

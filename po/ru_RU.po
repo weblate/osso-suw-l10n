@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 ч."
+
+msgid "startup_bd_timedi_24"
+msgstr "24 ч."
+
+msgid "startup_bd_timedi_am"
+msgstr "AM"
+
+msgid "startup_bd_timedi_pm"
+msgstr "PM"
+
+msgid "startup_datedi_month"
+msgstr "Месяц"
+
+msgid "startup_datedi_text"
+msgstr "Выберите нужную дату, указав день, месяц и год"
+
+msgid "startup_datedi_title"
+msgstr "Дата"
+
+msgid "startup_datedi_year"
+msgstr "Год"
+
+msgid "startup_fi_regdi_location"
+msgstr "Местоположение"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Текущие параметры"
+
+msgid "startup_ia_clicking_outside"
+msgstr ""
+"Выйти без сохранения параметров можно, нажав за пределами диалогового окна"
+
+msgid "startup_ia_pressbutton"
+msgstr "Нажмите на параметр, чтобы изменить настройки"
+
+msgid "startup_ia_regdi_text"
+msgstr ""
+"Выберите предпочитаемое местоположение, прокручивая список вверх и вниз "
+"перемещением пальца"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Телефон Nokia N900 загружается…"
+
+msgid "startup_lang_slidefinger"
+msgstr "Прокручивайте список вверх и вниз перемещением пальца."
+
+msgid "startup_lang_text"
+msgstr "Выберите предпочитаемый язык, нажав пальцем."
+
+msgid "startup_lang_title"
+msgstr "Язык"
+
+msgid "startup_regdi_timezone"
+msgstr "Часовой пояс"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Дата"
+
+msgid "startup_sel_infotext"
+msgstr "Ваш телефон Nokia N900 настроен следующим образом"
+
+msgid "startup_sel_lang_btn"
+msgstr "Язык"
+
+msgid "startup_sel_reg_btn"
+msgstr "Регион"
+
+msgid "startup_sel_time_btn"
+msgstr "Время"
+
+msgid "startup_startup_screen_title"
+msgstr "Приветствие"
+
+msgid "startup_ti_regdi_title"
+msgstr "Регион"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Переведите стрелки часов на нужное время перемещением пальца"
+
+msgid "startup_timedi_title"
+msgstr "Время"
+
+msgid "startup_timezonedi_title"
+msgstr "Выберите часовой пояс (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "День"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"

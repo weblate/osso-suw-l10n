@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 godz."
+
+msgid "startup_bd_timedi_24"
+msgstr "24 godz."
+
+msgid "startup_bd_timedi_am"
+msgstr "AM"
+
+msgid "startup_bd_timedi_pm"
+msgstr "PM"
+
+msgid "startup_datedi_month"
+msgstr "Miesiąc"
+
+msgid "startup_datedi_text"
+msgstr "Ustaw żądaną datę, przechodząc pomiędzy oknami dni, miesięcy i lat"
+
+msgid "startup_datedi_title"
+msgstr "Data"
+
+msgid "startup_datedi_year"
+msgstr "Rok"
+
+msgid "startup_fi_regdi_location"
+msgstr "Lokalizacja"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Bieżące ustawienia"
+
+msgid "startup_ia_clicking_outside"
+msgstr ""
+"Dotknięcie obszaru poza oknem dialogowym pozwala na zamknięcie aplikacji bez "
+"zapisywania ustawień"
+
+msgid "startup_ia_pressbutton"
+msgstr "Dotknij opcji, aby zmienić ustawienie"
+
+msgid "startup_ia_regdi_text"
+msgstr ""
+"Wybierz żądaną lokalizację, przesuwając palcem w górę lub w dół, aby "
+"przewinąć listę."
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Proszę czekać, trwa uruchamianie telefonu Nokia N900…"
+
+msgid "startup_lang_slidefinger"
+msgstr "Przesuwaj palcem w górę lub w dół, aby przewinąć listę."
+
+msgid "startup_lang_text"
+msgstr "Wskaż palcem żądany język urządzenia."
+
+msgid "startup_lang_title"
+msgstr "Język"
+
+msgid "startup_regdi_timezone"
+msgstr "Strefa czasowa"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Data"
+
+msgid "startup_sel_infotext"
+msgstr "Telefon Nokia N900 ma następujące ustawienia"
+
+msgid "startup_sel_lang_btn"
+msgstr "Język"
+
+msgid "startup_sel_reg_btn"
+msgstr "Region"
+
+msgid "startup_sel_time_btn"
+msgstr "Godzina"
+
+msgid "startup_startup_screen_title"
+msgstr "Witamy!"
+
+msgid "startup_ti_regdi_title"
+msgstr "Region"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Ustaw palcem wskazówki zegara, aby dostosować godzinę"
+
+msgid "startup_timedi_title"
+msgstr "Godzina"
+
+msgid "startup_timezonedi_title"
+msgstr "Wybierz strefę czasową (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Dzień"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
