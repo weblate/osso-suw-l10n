@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-suw 20100125151649\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.01.25 15:16+0200\n"
 "PO-Revision-Date: 2010.01.25 15:16+0200\n"
 "Last-Translator:\n"
