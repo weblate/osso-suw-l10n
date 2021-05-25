@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-04-27 23:44+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 ساعة"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 ساعة"
+
+msgid "startup_bd_timedi_am"
+msgstr "ص"
+
+msgid "startup_bd_timedi_pm"
+msgstr "م"
+
+msgid "startup_datedi_month"
+msgstr "شهر"
+
+msgid "startup_datedi_text"
+msgstr "حدد التاريخ الصحيح عبر تحريك, اليوم والسنة"
+
+msgid "startup_datedi_title"
+msgstr "التاريخ"
+
+msgid "startup_datedi_year"
+msgstr "السنة"
+
+msgid "startup_fi_regdi_location"
+msgstr "الموقع:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "الأعدادات الحالية:"
+
+msgid "startup_ia_clicking_outside"
+msgstr "الضغط خارج المربع الحالى يسمح لك بالخروج بدون حفظ الأعدادات"
+
+msgid "startup_ia_pressbutton"
+msgstr "أضغط على الخيارات لضبط الأعدادات"
+
+msgid "startup_ia_regdi_text"
+msgstr "أضغط على موقعك المفضل بوسطة تحريك الأصبع للأعلى وللأسفل لتحريك القائمة"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "الجهاز يعمل. يرجى الأنتظار"
+
+msgid "startup_lang_slidefinger"
+msgstr "حرك أصبعك لأعلى ولأسفل لتحريك القائمة."
+
+msgid "startup_lang_text"
+msgstr "أختر اللغة المفضلة بأستخدام أصبعك."
+
+msgid "startup_lang_title"
+msgstr "اللغة"
+
+msgid "startup_regdi_timezone"
+msgstr "المنطقة الزمنية:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "التاريخ"
+
+msgid "startup_sel_infotext"
+msgstr "هذا الجهاز يحتوى على الأعدادات التالية"
+
+msgid "startup_sel_lang_btn"
+msgstr "اللغة"
+
+msgid "startup_sel_reg_btn"
+msgstr "المنطقة"
+
+msgid "startup_sel_time_btn"
+msgstr "الزمن"
+
+msgid "startup_startup_screen_title"
+msgstr "مرحبا"
+
+msgid "startup_ti_regdi_title"
+msgstr "المنطقة"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "أستخدم أصبعك لتحريك عقارب الساعة إلى التوقيت الصحيح"
+
+msgid "startup_timedi_title"
+msgstr "الوقت"
+
+msgid "startup_timezonedi_title"
+msgstr "أختر المنطقة الزمنية (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "اليوم"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
+
