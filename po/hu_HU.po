@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-02-01 16:21+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 óra"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 óra"
+
+msgid "startup_bd_timedi_am"
+msgstr "DE"
+
+msgid "startup_bd_timedi_pm"
+msgstr "DU"
+
+msgid "startup_datedi_month"
+msgstr "Hónap"
+
+msgid "startup_datedi_text"
+msgstr "Válaszd ki a megfelelő dátumot, nap, hónap és év szerint."
+
+msgid "startup_datedi_title"
+msgstr "Dátum"
+
+msgid "startup_datedi_year"
+msgstr "Év"
+
+msgid "startup_fi_regdi_location"
+msgstr "Hely:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Jelenlegi beállítások:"
+
+msgid "startup_ia_clicking_outside"
+msgstr "Érintsd meg a kijelzőt a párbeszéd ablakon kívül, ha változtatás nélkül szeretnél kilépni"
+
+msgid "startup_ia_pressbutton"
+msgstr "A beállítás módosításához érintsd meg a lehetőségek egyikét"
+
+msgid "startup_ia_regdi_text"
+msgstr "Válaszd ki a megfelelő helyet az ujjad mozgatásával - fel/le mozdulatokkal görgetheted a listát"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Az eszköz betöltés alatt. Kérlek várj."
+
+msgid "startup_lang_slidefinger"
+msgstr "Az ujjad mozgatásával - fel/le mozdulatokkal görgetheted a listát"
+
+msgid "startup_lang_text"
+msgstr "Válaszd ki a megfelelő nyelvet"
+
+msgid "startup_lang_title"
+msgstr "Nyelv"
+
+msgid "startup_regdi_timezone"
+msgstr "Idő zóna:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Dátum"
+
+msgid "startup_sel_infotext"
+msgstr "Az eszköz az alábbi beállításokkal rendelkezik"
+
+msgid "startup_sel_lang_btn"
+msgstr "Nyelv"
+
+msgid "startup_sel_reg_btn"
+msgstr "Régió"
+
+msgid "startup_sel_time_btn"
+msgstr "Idő"
+
+msgid "startup_startup_screen_title"
+msgstr "Üdvözlés"
+
+msgid "startup_ti_regdi_title"
+msgstr "Régió"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Használd az ujjaidat az óra beállításához"
+
+msgid "startup_timedi_title"
+msgstr "Idő"
+
+msgid "startup_timezonedi_title"
+msgstr "Időzóna választása (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Nap"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
+
