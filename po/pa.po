@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "੧੨ ਘੰਟੇ"
+
+msgid "startup_bd_timedi_24"
+msgstr "੨੪ ਘੰਟੇ"
+
+msgid "startup_bd_timedi_am"
+msgstr "ਸਵੇਰ"
+
+msgid "startup_bd_timedi_pm"
+msgstr "ਸ਼ਾਮ"
+
+msgid "startup_datedi_month"
+msgstr "ਮਹੀਨਾ"
+
+msgid "startup_datedi_text"
+msgstr "ਮਹੀਨੇ, ਦਿਨ ਅਤੇ ਸਾਲ ਵਿੱਚੋਂ ਚੋਣ ਕਰਕੇ ਠੀਕ ਮਿਤੀ ਚੁਣੋ"
+
+msgid "startup_datedi_title"
+msgstr "ਮਿਤੀ"
+
+msgid "startup_datedi_year"
+msgstr "ਸਾਲ"
+
+msgid "startup_fi_regdi_location"
+msgstr "ਟਿਕਾਣਾ:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "ਮੌਜੂਦਾ ਸੈਟਿੰਗ:"
+
+msgid "startup_ia_clicking_outside"
+msgstr "ਡਾਈਲਾਗ ਬਾਕਸ ਦੇ ਬਾਹਰ ਛੂਹਣ ਨਾਲ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸੈਟਿੰਗ ਬਦਲੇ ਬਿਨਾਂ ਬਾਹਰ ਜਾ ਸਕਦੇ ਹੋ।"
+
+msgid "startup_ia_pressbutton"
+msgstr "ਸੈਟਿੰਗ ਬਦਲਣ ਲਈ ਚੋਣ ਛੂਹੋ"
+
+msgid "startup_ia_regdi_text"
+msgstr "ਉਂਗਲ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲਿਸਟ ਵਿੱਚੋਂ ਆਪਣਾ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਚੁਣੋ।"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "ਜੰਤਰ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ। ਉਡੀਕੋ ਜੀ।"
+
+msgid "startup_lang_slidefinger"
+msgstr "ਲਿਸਟ ਵੇਖਣ ਲਈ ਉਂਗਲ ਉੱਤੇ/ਹੇਠਾਂ ਕਰੋ।"
+
+msgid "startup_lang_text"
+msgstr "ਆਪਣੀ ਉਂਗਲ ਨਾਲ ਆਪਣੀ ਪਸੰਦ ਦੀ ਭਾਸ਼ਾ ਚੁਣੋ।"
+
+msgid "startup_lang_title"
+msgstr "ਭਾਸ਼ਾ"
+
+msgid "startup_regdi_timezone"
+msgstr "ਸਮਾਂ ਖੇਤਰ:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "ਮਿਤੀ"
+
+msgid "startup_sel_infotext"
+msgstr "ਇਹ ਜੰਤਰ ਉੱਤੇ ਹੇਠ ਦਿੱਤੀਆਂ ਸੈਟਿੰਗ ਹਨ"
+
+msgid "startup_sel_lang_btn"
+msgstr "ਭਾਸ਼ਾ"
+
+msgid "startup_sel_reg_btn"
+msgstr "ਖੇਤਰ"
+
+msgid "startup_sel_time_btn"
+msgstr "ਸਮਾਂ"
+
+msgid "startup_startup_screen_title"
+msgstr "ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "startup_ti_regdi_title"
+msgstr "ਖੇਤਰ"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "ਸਮਾਂ ਠੀਕ ਕਰਨ ਵਾਸਤੇ ਘੜੀ ਦੀਆਂ ਸੂਈਆਂ ਨੂੰ ਹਿਲਾਉਣ ਲਈ ਉਂਗਲ ਵਰਤੋਂ"
+
+msgid "startup_timedi_title"
+msgstr "ਸਮਾਂ"
+
+msgid "startup_timezonedi_title"
+msgstr "ਸਮਾਂ ਖੇਤਰ ਚੁਣੋ (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "ਦਿਨ"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
