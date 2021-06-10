@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 ម៉ោង"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 ម៉ោង"
+
+msgid "startup_bd_timedi_am"
+msgstr "AM"
+
+msgid "startup_bd_timedi_pm"
+msgstr "PM"
+
+msgid "startup_datedi_month"
+msgstr "ខែ"
+
+msgid "startup_datedi_text"
+msgstr "រើសថ្ងៃខែត្រឹមត្រូវដោយរុញឬរុញរក ខែ ថ្ងៃ និងឆ្នាំ"
+
+msgid "startup_datedi_title"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "startup_datedi_year"
+msgstr "ឆ្នាំ"
+
+msgid "startup_fi_regdi_location"
+msgstr "ទីកន្លែង:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "ការរៀបចំពេលនេះ:"
+
+msgid "startup_ia_clicking_outside"
+msgstr "ប៉ះទីខាងក្រៅនៃផ្ទាំងនេះដែលអាចអោយអ្នកចេញទៅក្រៅដោយមិនចាំបាច់រក្សាទុកនូវការរៀបចំ"
+
+msgid "startup_ia_pressbutton"
+msgstr "ចុចលើ ជម្រើស ដើម្បីប្តូរការរៀបចំ"
+
+msgid "startup_ia_regdi_text"
+msgstr "ជ្រើសទីកន្លែងដែលចូលចិត្តដោយរុញម្រាមដៃទៅ លើ/ក្រោម ដើម្បីមើលការរាយនាម"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "ឧបរណ៍កុំពុងដំណើរការ។ សូមមេត្តារង់ចាំ។"
+
+msgid "startup_lang_slidefinger"
+msgstr "រុញម្រាមដៃទៅ លើ/ក្រោម ដើម្បីមើលការរាយនាម។"
+
+msgid "startup_lang_text"
+msgstr "រើសភាសារដែលចង់ប្រើដោយម្រាមដៃរបស់អ្នក។"
+
+msgid "startup_lang_title"
+msgstr "ភាសារ"
+
+msgid "startup_regdi_timezone"
+msgstr "វេលាតបន់:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "startup_sel_infotext"
+msgstr "ឧបករណ៍នេះមានការរៀបចំដូចតទៅ"
+
+msgid "startup_sel_lang_btn"
+msgstr "ភាសារ"
+
+msgid "startup_sel_reg_btn"
+msgstr "តំបន់"
+
+msgid "startup_sel_time_btn"
+msgstr "វេលា"
+
+msgid "startup_startup_screen_title"
+msgstr "ស្វាគមន៍"
+
+msgid "startup_ti_regdi_title"
+msgstr "តំបន់"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "ប្រើម្រាមដៃដើម្បីប្តូរម៉ោងអោយបានត្រឹមត្រូវ"
+
+msgid "startup_timedi_title"
+msgstr "វេលា"
+
+msgid "startup_timezonedi_title"
+msgstr "ជ្រើសវេលាតំបន់ (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "ថ្ងៃ"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
