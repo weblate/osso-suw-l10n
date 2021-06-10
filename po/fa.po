@@ -1,0 +1,112 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2011-11-06 14:45+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 ساعته"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 ساعته"
+
+msgid "startup_bd_timedi_am"
+msgstr "ق.ظ"
+
+msgid "startup_bd_timedi_pm"
+msgstr "ب.ظ"
+
+msgid "startup_datedi_month"
+msgstr "ماه"
+
+msgid "startup_datedi_text"
+msgstr "انتخاب تاریخ ، روز و سال"
+
+msgid "startup_datedi_title"
+msgstr "تاریخ"
+
+msgid "startup_datedi_year"
+msgstr "سال"
+
+msgid "startup_fi_regdi_location"
+msgstr "موقعیت"
+
+msgid "startup_fi_regdi_settings"
+msgstr "تنظیمات کنونی"
+
+msgid "startup_ia_clicking_outside"
+msgstr "کلیک در خارج از کادر به شما اجازه می‌دهد تا تغییرات انجام نشوند"
+
+msgid "startup_ia_pressbutton"
+msgstr "گزینه را برای تنظیم انتخاب کنید"
+
+msgid "startup_ia_regdi_text"
+msgstr "زبان مورد نظر خود را با بالا و پایین بردن لیست به وسیله انگشت انتخاب کنید"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "لطفا صبر کنید ان900 شما در حال بارگذاری است..."
+
+msgid "startup_lang_slidefinger"
+msgstr "استفاده از انگشت برای بالا و پایین کردن لیست"
+
+msgid "startup_lang_text"
+msgstr "با استفاده از انگشت زبان مورد نظر خود را انتخاب کنید."
+
+msgid "startup_lang_title"
+msgstr "زبان"
+
+msgid "startup_regdi_timezone"
+msgstr "منطقه‌ی زمانی"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "تاریخ"
+
+msgid "startup_sel_infotext"
+msgstr "نوکیا ان900 شما دارای تنظیمات زیر است"
+
+msgid "startup_sel_lang_btn"
+msgstr "زبان"
+
+msgid "startup_sel_reg_btn"
+msgstr "منطقه"
+
+msgid "startup_sel_time_btn"
+msgstr "زمان"
+
+msgid "startup_startup_screen_title"
+msgstr "خوش آمدید"
+
+msgid "startup_ti_regdi_title"
+msgstr "منطقه"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "برای اصلاح ساعت از انگشت استفاده کنید"
+
+msgid "startup_timedi_title"
+msgstr "زمان"
+
+msgid "startup_timezonedi_title"
+msgstr "(%s) انتخاب منطقه‌ی زمانی"
+
+msgid "startup_va_datedi_day"
+msgstr "روز"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
