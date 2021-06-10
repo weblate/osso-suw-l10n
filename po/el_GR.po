@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12ωρο"
+
+msgid "startup_bd_timedi_24"
+msgstr "24ωρο"
+
+msgid "startup_bd_timedi_am"
+msgstr "ΠΜ"
+
+msgid "startup_bd_timedi_pm"
+msgstr "ΜΜ"
+
+msgid "startup_datedi_month"
+msgstr "Μήνας"
+
+msgid "startup_datedi_text"
+msgstr "Επιλέξτε τη σωστή ημερομηνία επιλέγοντας τον μήνα, την ημέρα και το έτος"
+
+msgid "startup_datedi_title"
+msgstr "Ημερομηνία"
+
+msgid "startup_datedi_year"
+msgstr "Έτος"
+
+msgid "startup_fi_regdi_location"
+msgstr "Τοποθεσία:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Τρέχοντες ρυθμίσεις:"
+
+msgid "startup_ia_clicking_outside"
+msgstr "Πατώντας έξω από το κουτί διαλόγου μπορείτε να κάνετε έξοδο χωρίς αποθήκευση των ρυθμίσεων"
+
+msgid "startup_ia_pressbutton"
+msgstr "Πατήστε μία επιλογή για να αλλάξετε μία ρύθμιση"
+
+msgid "startup_ia_regdi_text"
+msgstr "Επιλέξτε την τοποθεσία που επιθυμείτε σύροντας το δάχτυλό σας πάνω/κάτω για να μετακινηθείτε στη λίστα"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Η συσκευή φορτώνει. Παρακαλώ περιμένετε."
+
+msgid "startup_lang_slidefinger"
+msgstr "Σύρετε το δάχτυλο σας πάνω/κάτω για να μετακινηθείτε στη λίστα."
+
+msgid "startup_lang_text"
+msgstr "Επιλέξτε την γλώσσα που επιθυμείτε χρησιμοποιώντας το δάχτυλο σας."
+
+msgid "startup_lang_title"
+msgstr "Γλώσσα"
+
+msgid "startup_regdi_timezone"
+msgstr "Ζώνη ώρας:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Ημερομηνία"
+
+msgid "startup_sel_infotext"
+msgstr "Η συσκευή έχει τις ακόλουθες ρυθμίσεις"
+
+msgid "startup_sel_lang_btn"
+msgstr "Γλώσσα"
+
+msgid "startup_sel_reg_btn"
+msgstr "Περιοχή"
+
+msgid "startup_sel_time_btn"
+msgstr "Ώρα"
+
+msgid "startup_startup_screen_title"
+msgstr "Καλώς ορίσατε"
+
+msgid "startup_ti_regdi_title"
+msgstr "Περιοχή"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Χρησιμοποιήστε το δάχτυλο σας για να μετακινήσετε τους δείκτες του ρολογιού στη σωστή ώρα"
+
+msgid "startup_timedi_title"
+msgstr "Ώρα"
+
+msgid "startup_timezonedi_title"
+msgstr "Επιλέξτε τη ζώνη ώρας (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Ημέρα"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"
