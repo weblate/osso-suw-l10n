@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: osso-suw 20091013120336\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2010.01.25 15:16+0200\n"
-"PO-Revision-Date: 2010-05-02 17:50+0200\n"
-"Last-Translator:\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"PO-Revision-Date: 2022-01-30 10:56+0000\n"
+"Last-Translator: Iva Byvalcová <iveta.cvejnova11@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-suw-l10n/sk/>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 msgid "startup_bd_timedi_12"
 msgstr "12 h"
@@ -29,8 +31,9 @@ msgstr "PM"
 msgid "startup_datedi_month"
 msgstr "Mesiac"
 
+#, fuzzy
 msgid "startup_datedi_text"
-msgstr "Prechádzaním dňov, mesiacov a rokov vyberte správny dátum"
+msgstr "Nastavte správny dátum prechádzaním dní, mesiacov a rokov."
 
 msgid "startup_datedi_title"
 msgstr "Dátum"
@@ -48,19 +51,21 @@ msgid "startup_ia_clicking_outside"
 msgstr "Klepnutím mimo dialógové okno opustíte nastavenie bez uloženia zmien"
 
 msgid "startup_ia_pressbutton"
-msgstr "Klepnutím na možnosť zmeníte nastavenie"
+msgstr "Klepnutím na možnosti zmeníte nastavenie"
 
+#, fuzzy
 msgid "startup_ia_regdi_text"
-msgstr "Posúvaním prstu hore a dole vyberte zo zoznamu požadovanou polohu."
+msgstr "Zvoľte si preferovanú pozíciu posúvanie prsta hore/dolu"
 
 msgid "startup_ia_startup_screen_text"
-msgstr "Prebieha načítanie do telefónu Nokia N900, čakajte…"
+msgstr "Kým Nokia N900 načíta, čakajte prosím…"
 
+#, fuzzy
 msgid "startup_lang_slidefinger"
-msgstr "Posúvaním prstu hore a dole prechádzajte zoznamom."
+msgstr "Posúvaním prstu hore /dole prechádzajte zoznamom."
 
 msgid "startup_lang_text"
-msgstr "Pohybom prstu vyberte požadovaný jazyk."
+msgstr "Použitím prsta si zvoľte preferovaný jazyk"
 
 msgid "startup_lang_title"
 msgstr "Jazyk"
@@ -74,8 +79,9 @@ msgstr "GMT %d"
 msgid "startup_sel_date_btn"
 msgstr "Dátum"
 
+#, fuzzy
 msgid "startup_sel_infotext"
-msgstr "Telefón Nokia N900 má nasledujúce nastavenie"
+msgstr "Telefón Nokia N900 má nasledujúce nastavenia"
 
 msgid "startup_sel_lang_btn"
 msgstr "Jazyk"
@@ -89,14 +95,16 @@ msgstr "Čas"
 msgid "startup_startup_screen_title"
 msgstr "Vitajte"
 
+#, fuzzy
 msgid "startup_ti_regdi_title"
-msgstr "Región"
+msgstr "Oblasť"
 
 msgid "startup_timedi_digital_clock"
 msgstr "%d:%d"
 
+#, fuzzy
 msgid "startup_timedi_text"
-msgstr "Posuňte prstom ručičky hodín na správny čas"
+msgstr "Použite prst  na nastavenie správneho času"
 
 msgid "startup_timedi_title"
 msgstr "Čas"
