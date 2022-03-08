@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: osso-suw 20091013120336\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2010.01.25 15:16+0200\n"
-"PO-Revision-Date: 2022-01-30 10:56+0000\n"
-"Last-Translator: Iva Byvalcová <iveta.cvejnova11@gmail.com>\n"
+"PO-Revision-Date: 2022-03-09 01:56+0000\n"
+"Last-Translator: menom <menom1@protonmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-suw-l10n/sk/>\n"
 "Language: sk_SK\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 msgid "startup_bd_timedi_12"
 msgstr "12 h"
@@ -31,9 +31,8 @@ msgstr "PM"
 msgid "startup_datedi_month"
 msgstr "Mesiac"
 
-#, fuzzy
 msgid "startup_datedi_text"
-msgstr "Nastavte správny dátum prechádzaním dní, mesiacov a rokov."
+msgstr "Nastavte správny dátum prechádzaním dní, mesiacov a rokov"
 
 msgid "startup_datedi_title"
 msgstr "Dátum"
@@ -53,19 +52,17 @@ msgstr "Klepnutím mimo dialógové okno opustíte nastavenie bez uloženia zmie
 msgid "startup_ia_pressbutton"
 msgstr "Klepnutím na možnosti zmeníte nastavenie"
 
-#, fuzzy
 msgid "startup_ia_regdi_text"
-msgstr "Zvoľte si preferovanú pozíciu posúvanie prsta hore/dolu"
+msgstr "Zvoľte si preferovanú pozíciu posúvaním prsta hore/dolu"
 
 msgid "startup_ia_startup_screen_text"
 msgstr "Kým Nokia N900 načíta, čakajte prosím…"
 
-#, fuzzy
 msgid "startup_lang_slidefinger"
 msgstr "Posúvaním prstu hore /dole prechádzajte zoznamom."
 
 msgid "startup_lang_text"
-msgstr "Použitím prsta si zvoľte preferovaný jazyk"
+msgstr "Použitím prsta si zvoľte preferovaný jazyk."
 
 msgid "startup_lang_title"
 msgstr "Jazyk"
@@ -79,9 +76,8 @@ msgstr "GMT %d"
 msgid "startup_sel_date_btn"
 msgstr "Dátum"
 
-#, fuzzy
 msgid "startup_sel_infotext"
-msgstr "Telefón Nokia N900 má nasledujúce nastavenia"
+msgstr "Nokia N900 má nasledujúce nastavenia"
 
 msgid "startup_sel_lang_btn"
 msgstr "Jazyk"
@@ -95,16 +91,14 @@ msgstr "Čas"
 msgid "startup_startup_screen_title"
 msgstr "Vitajte"
 
-#, fuzzy
 msgid "startup_ti_regdi_title"
 msgstr "Oblasť"
 
 msgid "startup_timedi_digital_clock"
 msgstr "%d:%d"
 
-#, fuzzy
 msgid "startup_timedi_text"
-msgstr "Použite prst  na nastavenie správneho času"
+msgstr "Použite prst na nastavenie správneho času"
 
 msgid "startup_timedi_title"
 msgstr "Čas"
