@@ -3,107 +3,114 @@ msgstr ""
 "Project-Id-Version: osso-suw 20100125151649\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.01.25 15:16+0200\n"
-"PO-Revision-Date: 2010.01.25 15:16+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 19:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-suw-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "startup_bd_timedi_12"
-msgstr ""
+msgstr "12 மணி"
 
 msgid "startup_bd_timedi_24"
-msgstr ""
+msgstr "24 மணி"
 
 msgid "startup_bd_timedi_am"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "startup_bd_timedi_pm"
-msgstr ""
+msgstr "பி.எம்"
 
 msgid "startup_datedi_month"
-msgstr ""
+msgstr "மாதம்"
 
 msgid "startup_datedi_text"
 msgstr ""
+"நாள், மாதம் மற்றும் ஆண்டு வழியாகச் செல்வதன் மூலம் சரியான தேதியைத் தேர்ந்தெடுக்கவும்"
 
 msgid "startup_datedi_title"
-msgstr ""
+msgstr "திகதி"
 
 msgid "startup_datedi_year"
-msgstr ""
+msgstr "ஆண்டு"
 
 msgid "startup_fi_regdi_location"
-msgstr ""
+msgstr "இடம்"
 
 msgid "startup_fi_regdi_settings"
-msgstr ""
+msgstr "தற்போதைய அமைப்புகள்"
 
 msgid "startup_ia_clicking_outside"
 msgstr ""
+"உரையாடல் பெட்டியை வெளியே தட்டுவது எந்த அமைப்புகளையும் சேமிக்காமல் வெளியேற உங்களை "
+"அனுமதிக்கிறது"
 
 msgid "startup_ia_pressbutton"
-msgstr ""
+msgstr "ஒரு அமைப்பை மாற்ற ஒரு விருப்பத்தைத் தட்டவும்"
 
 msgid "startup_ia_regdi_text"
 msgstr ""
+"பட்டியல் மூலம் உருட்ட விரலை மேலே/கீழ் நோக்கி சறுக்குவதன் மூலம் விருப்பமான இடத்தைத் "
+"தேர்வுசெய்க"
 
 msgid "startup_ia_startup_screen_text"
-msgstr ""
+msgstr "உங்கள் நோக்கியா N900 ஏற்றும்போது காத்திருங்கள்…"
 
 msgid "startup_lang_slidefinger"
-msgstr ""
+msgstr "பட்டியலை உருட்ட விரலை மேலே/கீழே ச்லைடு செய்யவும்."
 
 msgid "startup_lang_text"
-msgstr ""
+msgstr "உங்கள் விரலைப் பயன்படுத்தி விருப்பமான மொழியைத் தேர்வுசெய்க."
 
 msgid "startup_lang_title"
-msgstr ""
+msgstr "மொழி"
 
 msgid "startup_regdi_timezone"
-msgstr ""
+msgstr "நேர மண்டலம்"
 
 msgid "startup_regdi_timezone_value"
-msgstr ""
+msgstr "GMT %d"
 
 msgid "startup_sel_date_btn"
-msgstr ""
+msgstr "திகதி"
 
 msgid "startup_sel_infotext"
-msgstr ""
+msgstr "உங்கள் நோக்கியா N900 பின்வரும் அமைப்புகளைக் கொண்டுள்ளது"
 
 msgid "startup_sel_lang_btn"
-msgstr ""
+msgstr "மொழி"
 
 msgid "startup_sel_reg_btn"
-msgstr ""
+msgstr "பகுதி"
 
 msgid "startup_sel_time_btn"
-msgstr ""
+msgstr "நேரம்"
 
 msgid "startup_startup_screen_title"
-msgstr ""
+msgstr "வரவேற்கிறோம்"
 
 msgid "startup_ti_regdi_title"
-msgstr ""
+msgstr "பகுதி"
 
 msgid "startup_timedi_digital_clock"
-msgstr ""
+msgstr "%d:%d"
 
 msgid "startup_timedi_text"
-msgstr ""
+msgstr "நேரத்தை சரிசெய்ய கடிகார கைகளை நகர்த்த விரலைப் பயன்படுத்தவும்"
 
 msgid "startup_timedi_title"
-msgstr ""
+msgstr "நேரம்"
 
 msgid "startup_timezonedi_title"
-msgstr ""
+msgstr "நேர மண்டலத்தைத் தேர்ந்தெடுக்கவும் (%s)"
 
 msgid "startup_va_datedi_day"
-msgstr ""
+msgstr "நாள்"
 
 msgid "startup_va_timezonedi_values"
-msgstr ""
+msgstr "%s (%s)"
